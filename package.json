@@ -1,0 +1,1 @@
+{"description":"One Word, First Thought — writes a single vivid word to /output/entry.txt","engines":{"node":">=22.18"},"license":"MIT","name":"u-0xkianno-one-word-first-thought-106abaf8","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
